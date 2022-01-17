@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1642341921486" clover="3.2.0">
-  <project timestamp="1642341921486" name="All files">
+<coverage generated="1642384877367" clover="3.2.0">
+  <project timestamp="1642384877367" name="All files">
     <metrics statements="5" coveredstatements="4" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="1" elements="9" coveredelements="7" complexity="0" loc="5" ncloc="5" packages="1" files="2" classes="2"/>
     <file name="app.ts" path="/Users/tdo/Desktop/PlayCode/src/app.ts">
       <metrics statements="3" coveredstatements="3" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
